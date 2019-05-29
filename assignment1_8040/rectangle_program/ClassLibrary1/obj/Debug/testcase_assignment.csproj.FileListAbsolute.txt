@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\nunit.framework.dll
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\rectangle_program.exe
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\rectangle_program.pdb
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\bin\Debug\nunit.framework.xml
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\obj\Debug\testcase_assignment.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\obj\Debug\testcase_assignment.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\obj\Debug\testcase_assignment.csproj.CopyComplete
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+\\Mac\Home\Desktop\assignment1_8040\rectangle_program\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
