@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\obj\Debug\rectangleprogram.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\obj\Debug\rectangleprogram.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\bin\Debug\rectangleprogram.exe.config
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\bin\Debug\rectangleprogram.exe
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\bin\Debug\rectangleprogram.pdb
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\obj\Debug\rectangleprogram.exe
+\\Mac\Home\Desktop\rectangleprogram\rectangleprogram\rectangleprogram\obj\Debug\rectangleprogram.pdb
