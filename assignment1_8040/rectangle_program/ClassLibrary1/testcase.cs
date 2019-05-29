@@ -74,18 +74,33 @@ namespace testcase_assignment
         }
 
         [Test]
-        public void GetPerimeter_input7_expectedLengthEquals7()
+        public void GetPerimeter_inputlength3andwidth3_expectedperimeterEquals12()
         {
             //Arrange
-            int l = 2;
-            int w = 9;
+            int l = 3;
+            int w = 3;
             Rectangle testrectangle = new Rectangle(l, w);
 
             //Act
             int perimeter = testrectangle.GetPerimeter();
 
             //Assert
-            Assert.AreEqual(GetPerimeter);
+            Assert.AreEqual((2*l)+(2*w));
+        }
+
+        [Test]
+        public void GetArea_inputlength9andwidth4_expectedperimeterEquals36()
+        {
+            //Arrange
+            int l = 9;
+            int w = 4;
+            Rectangle testrectangle = new Rectangle(l, w);
+
+            //Act
+            int area = testrectangle.GetArea();
+
+            //Assert
+            Assert.AreEqual(l * w);
         }
 
     }
