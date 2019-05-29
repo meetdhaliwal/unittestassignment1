@@ -79,28 +79,34 @@ namespace testcase_assignment
             //Arrange
             int l = 3;
             int w = 3;
-            Rectangle testrectangle = new Rectangle(l, w);
 
+            int expectedResult = (l * 2) + (w * 2);
+
+            Rectangle testrectangle = new Rectangle(l, w);
+            
             //Act
-            int perimeter = testrectangle.GetPerimeter();
+            int actualResult = testrectangle.GetPerimeter();
 
             //Assert
-            Assert.AreEqual((2*l)+(2*w));
+            Assert.AreEqual(expectedResult, actualResult);
         }
 
         [Test]
-        public void GetArea_inputlength9andwidth4_expectedperimeterEquals36()
+        public void GetArea_inputlength9andwidth4_expectedAreaEquals36()
         {
             //Arrange
             int l = 9;
             int w = 4;
+
+            int expectedResult = (l*w);
+
             Rectangle testrectangle = new Rectangle(l, w);
 
             //Act
-            int area = testrectangle.GetArea();
+            int actualResult = testrectangle.GetArea();
 
             //Assert
-            Assert.AreEqual(l * w);
+            Assert.AreEqual(expectedResult, actualResult);
         }
 
     }
